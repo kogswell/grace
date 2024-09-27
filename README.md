@@ -1,7 +1,10 @@
 welcome to **GRACE** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;the **G**it **R**evision **A**ssisting **C**ontent**E**ditor
+&nbsp;&nbsp;&nbsp;&nbsp;the **G**it **R**evision **A**ssisting **C**ontent **E**ditor
 
+
+
+##### C O N C E P T S #####
 <hr/>
 
 The core concept of GRACE is the 'kassette'
