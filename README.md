@@ -2,7 +2,7 @@ welcome to **GRACE**
 
 &nbsp;&nbsp;&nbsp;&nbsp;the **G**it **R**evision **A**ssisting **C**ontent **E**ditor
 
-
+<br/>
 
 ##### C O N C E P T S #####
 <hr/>
