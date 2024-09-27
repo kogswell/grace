@@ -1,6 +1,6 @@
 welcome to **GRACE** 
 
-<&nbsp><&nbsp><&nbsp><&nbsp>the **G**it **R**evision **A**ssisting **C**ontent**E**ditor
+&nbsp;&nbsp;&nbsp;&nbsp;the **G**it **R**evision **A**ssisting **C**ontent**E**ditor
 
 <hr/>
 
