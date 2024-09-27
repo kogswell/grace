@@ -1,3 +1,3 @@
 #### welcome to **GRACE** ####
 
-##### the <b>G</b>it <b>R</b>evision <b>A</b>ssisting <b>C</b>ontent <b>E</b>ditor #####
+##### the **G**it **R**evision **A**ssisting **C**ontent**E**ditor #####
