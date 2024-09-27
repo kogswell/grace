@@ -1,3 +1,3 @@
-#### welcome to **GRACE** ####
+welcome to **GRACE** 
 
-##### the **G**it **R**evision **A**ssisting **C**ontent**E**ditor #####
+the **G**it **R**evision **A**ssisting **C**ontent**E**ditor
