@@ -1,8 +1,6 @@
 welcome to **GRACE** 
 
-<blockquote>
-the **G**it **R**evision **A**ssisting **C**ontent**E**ditor
-</blockquote>
+<&nbsp><&nbsp><&nbsp><&nbsp>the **G**it **R**evision **A**ssisting **C**ontent**E**ditor
 
 <hr/>
 
