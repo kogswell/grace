@@ -12,3 +12,10 @@ const kassette = [
     { path: 'three/3.md', className: 'three' }
 ];
 ```
+<blockquote>
+    <p>This is a blockquote.</p>
+
+    <p>This is the second paragraph in the blockquote.</p>
+
+    <h2>This is an H2 in a blockquote</h2>
+</blockquote>
